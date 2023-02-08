@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Android and Java
 - 🤔 I’m looking for help with JavaScript
-- 📫 How to reach me: https://www.instagram.com/abdessamad_tarfi/
 - 😄 Pronouns: He/Him
 - :zap: Fun fact:
 
